@@ -14,7 +14,7 @@ namespace QuanLyQuanCafe.DTO
         private DateTime? dateCheckOut;
         private int tableId;
         private int status;
-
+        
         public int Id { get => id; set => id = value; }
         public DateTime? DateCheckIn { get => dateCheckIn; set => dateCheckIn = value; }
         public DateTime? DateCheckOut { get => dateCheckOut; set => dateCheckOut = value; }

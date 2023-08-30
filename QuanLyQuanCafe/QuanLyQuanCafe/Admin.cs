@@ -52,7 +52,7 @@ namespace QuanLyQuanCafe
 
             LoadListTable();
             AddTableBinding();
-            
+
             LoadListAccount();
             AddAccountBinding();
         }
@@ -77,17 +77,20 @@ namespace QuanLyQuanCafe
 
             foodlist.DataSource = FoodDAO.Instance.GetListFood();
 
-            dtgvFood.Columns[0].HeaderText = "Mã";
-            dtgvFood.Columns[0].Width = 80;
+            dtgvFood.Columns["Id"].Visible = false;
+
+            //dtgvFood.Columns[0].HeaderText = "Mã";
+            //dtgvFood.Columns[0].Width = 80;
 
             dtgvFood.Columns[1].HeaderText = "Tên món ăn";
-            dtgvFood.Columns[1].Width = 240;
+           // dtgvFood.Columns[1].Width = 240;
 
-            dtgvFood.Columns[2].HeaderText = "Mã loại";
-            dtgvFood.Columns[2].Width = 80;
+            //dtgvFood.Columns[2].HeaderText = "Mã loại";
+            //dtgvFood.Columns[2].Width = 80;
+            dtgvFood.Columns["Categoryid"].Visible = false;
 
             dtgvFood.Columns[3].HeaderText = "Giá";
-            dtgvFood.Columns[3].Width = 120;
+          //  dtgvFood.Columns[3].Width = 120;
         }
 
         List<FoodDTO> SearchFoodByName(string name)
@@ -142,7 +145,7 @@ namespace QuanLyQuanCafe
             dtgvTable.Columns[1].HeaderText = "Tên bàn";
             dtgvTable.Columns[2].HeaderText = "Trạng thái";
         }
-      
+
         void AddTableBinding()
         {
             txbTableID.DataBindings.Add(new Binding("Text", dtgvTable.DataSource, "Id", true, DataSourceUpdateMode.Never));
@@ -165,7 +168,6 @@ namespace QuanLyQuanCafe
 
             dtgvAccount.Columns[3].HeaderText = "Loại tài khoản";
             dtgvAccount.Columns[3].Width = 130;
-
         }
 
         void AddAccountBinding()

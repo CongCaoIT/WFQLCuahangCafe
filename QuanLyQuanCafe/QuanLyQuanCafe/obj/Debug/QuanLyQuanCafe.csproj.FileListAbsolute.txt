@@ -37,3 +37,16 @@ E:\HK V (2023 - 2024)\Cong_Nghe .Net\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCa
 E:\HK V (2023 - 2024)\Cong_Nghe .Net\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
 E:\HK V (2023 - 2024)\Cong_Nghe .Net\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
 E:\HK V (2023 - 2024)\Cong_Nghe .Net\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.AccountProfile.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Admin.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.TableManager.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QLCuahangCafeWF\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb

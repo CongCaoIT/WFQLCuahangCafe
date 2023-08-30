@@ -38,7 +38,6 @@ namespace QuanLyQuanCafe.DAO
             {
                 hasPass += item;
             }
-
             return hasPass;
         }
 

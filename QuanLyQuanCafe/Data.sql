@@ -14,6 +14,7 @@ CREATE TABLE BAN
 )
 GO
 
+
 CREATE TABLE TAIKHOAN
 (
     TENDANGNHAP NVARCHAR(100) NOT NULL,
@@ -106,10 +107,6 @@ BEGIN
 END
 GO
 
-CREATE PROC USP_GetTableList
-AS SELECT * FROM BAN
-GO
-
 --Thêm loại món ăn
 INSERT INTO LOAIMONAN VALUES
 (N'Hải sản'),
@@ -146,6 +143,10 @@ BEGIN
 END
 GO
 
+CREATE PROC USP_GetTableList
+AS SELECT * FROM BAN
+GO
+
 -- Thêm chi tiết hóa đơn
 CREATE PROC USP_InsertBillInfo
 @idBill INT, @idFood INT, @count INT
@@ -171,7 +172,6 @@ BEGIN
             INSERT INTO CHITIETHD VALUES
             (@idBill, @idFood, @count)
         END
-
 END
 GO
 
